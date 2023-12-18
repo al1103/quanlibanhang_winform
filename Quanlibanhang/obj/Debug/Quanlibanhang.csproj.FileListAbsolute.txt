@@ -1,0 +1,11 @@
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.csproj.AssemblyReference.cache
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.Form1.resources
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.Properties.Resources.resources
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.csproj.GenerateResource.cache
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.csproj.CoreCompileInputs.cache
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\bin\Debug\Quanlibanhang.exe.config
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\bin\Debug\Quanlibanhang.exe
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\bin\Debug\Quanlibanhang.pdb
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.QuanLi.resources
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.exe
+C:\Users\phamt\source\repos\Quanlibanhang\Quanlibanhang\obj\Debug\Quanlibanhang.pdb
